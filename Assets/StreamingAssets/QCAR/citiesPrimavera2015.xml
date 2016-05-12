@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="logoks" size="20.000000 5.818182" />
+    <ImageTarget name="123441221" size="20.000000 27.027027" />
+    <ImageTarget name="aesculus_hippocastanum" size="20.000000 11.250000" />
+    <ImageTarget name="1454877393002" size="20.000000 12.857142" />
+    <ImageTarget name="12747370_10207412434022613_4635485039167431241_o" size="20.000000 11.240234" />
+    <ImageTarget name="1447094120133" size="20.000000 21.400000" />
+    <ImageTarget name="1447077838360" size="50.000000 75.000000" />
+    <ImageTarget name="tarjaElViatgeMax" size="20.000000 21.919191" />
+    <ImageTarget name="WACK_A_DIGGLET" size="200.000000 176.488098" />
+    <ImageTarget name="eetac" size="20.000000 20.000000" />
+  </Tracking>
+</QCARConfig>
